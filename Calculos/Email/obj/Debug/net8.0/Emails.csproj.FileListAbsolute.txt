@@ -1,0 +1,14 @@
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\bin\Debug\net8.0\Emails.exe
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\bin\Debug\net8.0\Emails.deps.json
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\bin\Debug\net8.0\Emails.runtimeconfig.json
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\bin\Debug\net8.0\Emails.dll
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\bin\Debug\net8.0\Emails.pdb
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.AssemblyInfoInputs.cache
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.AssemblyInfo.cs
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.csproj.CoreCompileInputs.cache
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.dll
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\refint\Emails.dll
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.pdb
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\Emails.genruntimeconfig.cache
+C:\Users\53297269804\Desktop\Testes\Calculos\Email\obj\Debug\net8.0\ref\Emails.dll
